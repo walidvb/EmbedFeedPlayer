@@ -1,4 +1,6 @@
 {
+  "name": "oembed-feed-player",
+  "version": "0.0.1",
   "dependencies": {
     "luxon": "^2.1.1",
     "react": "^17.0.2",
